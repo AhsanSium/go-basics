@@ -1,2 +1,4 @@
-# go-basics
-Learning the basics of Go Lang
+# GO BASICS
+
+### Learning the basics of Go Lang
+
